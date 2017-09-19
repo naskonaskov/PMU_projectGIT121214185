@@ -1,0 +1,1 @@
+C:\Users\atana\Desktop\PMU Project\WeatherForecast\WeatherForecast\WeatherForecast.csproj;x86
